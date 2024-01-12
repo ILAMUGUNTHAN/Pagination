@@ -1,0 +1,10 @@
+C:\Users\Illamugundhan\source\repos\dynamic User Controls\Page Nation\bin\Debug\Page Nation.exe.config
+C:\Users\Illamugundhan\source\repos\dynamic User Controls\Page Nation\bin\Debug\Page Nation.exe
+C:\Users\Illamugundhan\source\repos\dynamic User Controls\Page Nation\bin\Debug\Page Nation.pdb
+C:\Users\Illamugundhan\source\repos\dynamic User Controls\Page Nation\obj\Debug\Page Nation.csprojAssemblyReference.cache
+C:\Users\Illamugundhan\source\repos\dynamic User Controls\Page Nation\obj\Debug\Page_Nation.Properties.Resources.resources
+C:\Users\Illamugundhan\source\repos\dynamic User Controls\Page Nation\obj\Debug\Page Nation.csproj.GenerateResource.cache
+C:\Users\Illamugundhan\source\repos\dynamic User Controls\Page Nation\obj\Debug\Page Nation.csproj.CoreCompileInputs.cache
+C:\Users\Illamugundhan\source\repos\dynamic User Controls\Page Nation\obj\Debug\Page Nation.exe
+C:\Users\Illamugundhan\source\repos\dynamic User Controls\Page Nation\obj\Debug\Page Nation.pdb
+C:\Users\Illamugundhan\source\repos\dynamic User Controls\Page Nation\obj\Debug\Page_Nation.Form1.resources
